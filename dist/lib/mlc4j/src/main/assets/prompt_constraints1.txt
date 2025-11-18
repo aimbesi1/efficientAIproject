@@ -1,0 +1,3 @@
+Write the story without using the letter E.
+Write the story as a palindrome.
+Make every noun rhyme.

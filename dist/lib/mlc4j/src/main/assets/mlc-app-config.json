@@ -1,0 +1,22 @@
+{
+  "model_list": [
+    {
+      "model_id": "Phi-3.5-mini-instruct-q4f16_0-MLC",
+      "model_lib": "phi3_q4f16_0_1ad1c79c0de46ffcc825e8181cc805e2",
+      "model_url": "https://huggingface.co/mlc-ai/Phi-3.5-mini-instruct-q4f16_0-MLC",
+      "estimated_vram_bytes": 4250586449
+    },
+    {
+      "model_id": "Qwen3-0.6B-q0f16-MLC",
+      "model_lib": "qwen3_q0f16_e709b04052d95e24b38d40e4259e1f14",
+      "model_url": "https://huggingface.co/mlc-ai/Qwen3-0.6B-q0f16-MLC",
+      "estimated_vram_bytes": 3000000000
+    },
+    {
+      "model_id": "SmolLM2-135M-Instruct-q0f16-MLC",
+      "model_lib": "llama_q0f16_0a2bd3c573778cf2069d81b3d7b5ae69",
+      "model_url": "https://huggingface.co/mlc-ai/SmolLM2-135M-Instruct-q0f16-MLC",
+      "estimated_vram_bytes": 412000000
+    }
+  ]
+}
