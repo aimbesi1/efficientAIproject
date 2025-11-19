@@ -1,0 +1,10 @@
+Write the story without using the letter E.
+Write the story as a palindrome.
+Write the story backwards, starting with the ending and ending with the beginning.
+Write the story as a dialogue, but one speaker can only ask questions.
+Write the story where every sentence begins with the next letter of the alphabet, starting with A.
+Make every noun rhyme.
+Make each paragraph shorter than the previous one, until the last paragraph is just one word long.
+Write the story as a drabble, so it must be exactly 100 words long.
+Write the story such that every sentence must contradict the previous one.
+Write the story as a single, unbroken sentence.
